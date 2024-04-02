@@ -1,0 +1,7 @@
+echo "Mannually Changing MAC ADDRESS"
+echo "First Root"
+echo "ifconfig"
+echo "ifconfig eth0 down"
+echo "ifconfig eth0 hw ether <MAC Address Change>"
+echo "ifconfig eth0 up"
+echo "{Mac Address Change}"
